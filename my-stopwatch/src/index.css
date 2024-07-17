@@ -121,3 +121,7 @@ button:focus-visible {
 .reset-button:hover{
   background-color: #383941;
 }
+
+.des {
+  color: white;
+}
